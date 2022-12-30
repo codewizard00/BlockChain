@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": ""
   },
   "dependencies": {
     "@emotion/react": "^11.7.1",
@@ -16,7 +17,9 @@
     "react-dom": "^17.0.2",
     "react-multi-carousel": "^2.6.5",
     "react-responsive-carousel": "^3.2.22",
-    "sass": "^1.45.2"
+    "react-tsparticles": "^2.7.1",
+    "sass": "^1.45.2",
+    "tsparticles": "^2.7.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
